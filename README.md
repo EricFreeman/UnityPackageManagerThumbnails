@@ -1,4 +1,4 @@
-# Package Manager Thumbnails
+# Unity Package Manager Thumbnails
 
 Shows each asset's image next to its name in the **My Assets** list of Unity's built-in Package Manager.
 
