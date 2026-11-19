@@ -1,0 +1,17 @@
+{
+  "name": "com.ericfreeman.package-manager-thumbnails",
+  "displayName": "Package Manager Thumbnails",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "description": "Shows each asset's image next to its name in the My Assets list of the built-in Package Manager, with controls to toggle thumbnails, toggle multiline names, and resize the images.",
+  "keywords": [
+    "editor",
+    "package manager",
+    "asset store",
+    "thumbnails"
+  ],
+  "author": {
+    "name": "Eric Freeman",
+    "url": "https://github.com/EricFreeman"
+  }
+}
